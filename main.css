@@ -1,0 +1,15 @@
+body{
+    background-color:gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color:blue;
+}
+h1{
+    color:red;
+}
+h3{
+    color:blue;
+}
+p{
+    font-style: italic;
+}
