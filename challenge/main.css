@@ -1,0 +1,65 @@
+
+div{
+    height:300px;
+    width:300px;
+
+}
+.row{
+    height:100px;
+    width:300px;
+}
+.one{
+    float:left;
+    background-color:red;
+    height:100px;
+    width:100px;
+}
+.two{
+    float:left;
+    background-color:blue;
+    height:100px;
+    width:100px;
+}
+.three{
+    float:left;
+    background-color:gold;
+    height:100px;
+    width:100px;
+}.one2{
+    float:left;
+    background-color:purple;
+    height:100px;
+    width:100px;
+}
+.two2{
+    float:left;
+    background-color:grey;
+    height:100px;
+    width:100px;
+}
+.three2{
+    float:left;
+    background-color:green;
+    height:100px;
+    width:100px;
+}
+.one3{
+    float:left;
+    background-color:hotpink;
+    height:100px;
+    width:100px;
+}
+.two3{
+    float:left;
+    background-color:paleturquoise;
+    height:100px;
+    width:100px;
+}
+.three3{
+    float:left;
+    background-color:cornsilk;
+    height:100px;
+    width:100px;
+}
+
+}
