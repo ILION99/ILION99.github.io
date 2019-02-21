@@ -1,5 +1,5 @@
 body{
-    background-color:gold;
+    background-color:rgb(59, 241, 23);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     color:blue;
@@ -12,4 +12,13 @@ h3{
 }
 p{
     font-style: italic;
+}
+.poem{
+    border:10px solid;
+    border-color:gold;
+    width: 50%;
+    height:50%;
+    margin:auto;
+    background-color:rgba(247, 164, 10, 0.911);
+    
 }
